@@ -10,7 +10,7 @@ This example shows how to bind an individual series to data at runtime.
 
 ![Resulting chart](Images/resulting-chart.png)
 
-Despite the fact that this example binds the series to a [DataTable](https://docs.microsoft.com/en-us/dotnet/api/system.data.datatable?view=net-6.0), you can use the following properties to bind the series to any source:
+Although this example binds the series to a [DataTable](https://docs.microsoft.com/en-us/dotnet/api/system.data.datatable?view=net-6.0), you can use the following properties to bind the series to any source:
 
 * [Series.DataSource](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.Series.DataSource?p=netframework)
 * [SeriesBase.ArgumentDataMember](https://docs.devexpress.com/CoreLibraries/DevExpress.XtraCharts.SeriesBase.ArgumentDataMember?p=netframework)
