@@ -37,7 +37,7 @@ Although this example binds the series to a [DataTable](https://docs.microsoft.c
 * [How to Simultaneously configure settings for template series and series added to the chart manually](https://github.com/DevExpress-Examples/winforms-charts-configure-settings-for-template-series-and-series-added-manually)
 * [How to use the existing ChartControl as a source for an XRChart](https://github.com/DevExpress-Examples/how-to-use-the-existing-chartcontrol-as-a-source-for-an-xrchart-e1165)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-charts-bind-individual-series-to-data&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-charts-bind-individual-series-to-data&~~~was_helpful=no)
 
